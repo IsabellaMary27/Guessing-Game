@@ -1,0 +1,16 @@
+h1{
+    color:darkblue;
+  }
+  body{
+    background-color:red;
+    color:violet;
+    font-size:2em;
+    text-align:center;
+    margin-top:50px;
+  }
+  input,button{
+    font-size:1.5em;
+    text-align:center;
+    margin-top:0.25em;
+    border-radius:20px;
+  }
